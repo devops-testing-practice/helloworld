@@ -17,7 +17,7 @@
   </ciManagement>
   
   
-  <name>jpademo</name>
+  <name>helloworld</name>
   <url>http://maven.apache.org</url>
     <build>
         <plugins>
